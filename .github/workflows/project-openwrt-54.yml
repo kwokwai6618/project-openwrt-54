@@ -19,7 +19,7 @@ on:
         required: false
         default: 'false'
   schedule:
-    - cron: 27 15 * * *
+    - cron: 31 15 * * *
 
 env:
   REPO_URL: https://github.com/project-openwrt/openwrt
